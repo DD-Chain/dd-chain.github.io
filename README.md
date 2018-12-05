@@ -1,16 +1,24 @@
 ## Welcome to DD Chain
 
 DD Chain builds better businesses by creating joyful digital ideas, products and experiences that connect the hearts of brands to the hearts of their consumers. 
-
+<br><br>
+We focus on:
+<br>
+-Product Innovation
+<br>
+-Digital Experiences & Campaigns
+<br>
+-Branding
+<br>
+-Digital Products
+<br>
+-Brand and Product Sites
+<br>
 
 **What We Do**
-We make _immersive_ digital experiences that tell a story and evoke emotion. We craft brand identities for startups looking for something unique. Big or small, profit or nonprofit, we approach everything we do with curious minds and a hunger to solve problems. 
+<br>
+We make _immersive_ digital experiences that tell a story and evoke emotion. We craft brand identities for startups looking for something unique. Big or small, profit or nonprofit, we approach everything we do with curious minds and a hunger to solve problems.
 
--Product Innovation
--Digital Experiences & Campaigns
--Branding
--Digital Products
--Brand and Product Sites
 
 
 
