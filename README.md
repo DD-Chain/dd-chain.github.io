@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to DD Chain
 
-You can use the [editor on GitHub](https://github.com/DD-Chain/dd-chain.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+DD Chain builds better businesses by creating joyful digital ideas, products and experiences that connect the hearts of brands to the hearts of their consumers. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+**What We Do**
+We make _immersive_ digital experiences that tell a story and evoke emotion. We craft brand identities for startups looking for something unique. Big or small, profit or nonprofit, we approach everything we do with curious minds and a hunger to solve problems. 
+
+-Product Innovation
+-Digital Experiences & Campaigns
+-Branding
+-Digital Products
+-Brand and Product Sites
+
+
+
+
 
 ### Markdown
 
